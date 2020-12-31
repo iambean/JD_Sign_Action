@@ -65,3 +65,5 @@
 
 ---
 做个修改标记。
+关于Github Actions，参考阮一峰的教程：
+http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
